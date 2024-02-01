@@ -1,0 +1,55 @@
+#¡Bienvenidos a la fase de inicio de nuestro Proyecto Integrador! Este es un momento emocionante en nuestra travesía de aprendizaje, ya que empezaremos a construir nuestro primer programa completo. Nuestro objetivo será resolver un problema real: administrar las reservas de un restaurante.
+
+Instrucciones para el Proyecto Integrador:
+Definición del Problema: Comienza por definir claramente el problema a resolver. Necesitamos un programa que administre las reservas de un restaurante.
+
+¿Qué información necesita el sistema para realizar una reserva?
+¿Qué resultado debería proporcionar después de completar el proceso?
+Proceso de Reserva: Describe con detalle cómo se gestiona una reserva en un restaurante, es decir, los pasos que se siguen desde que un cliente decide hacer una reserva hasta que la misma se confirma por parte del restaurante. Por ejemplo, verificar la disponibilidad de mesas, registrar la información del cliente, seleccionar la fecha y hora de la reserva y confirmar la reserva.
+
+Al finalizar, envía la lista de pasos en el siguiente campo. Cada paso debe estar numerado. Es importante que sean lo más detallados y precisos posible, ya que esto nos ayudará a construir un algoritmo eficiente y efectivo en las siguientes etapas del proyecto.
+
+¡Buena suerte !
+
+1 . Definir claramente el problema.
+- Administar las resrvas de los clientes de un restaurante 
+- El sistema debe resvir la informacion del cliente y dar una respuesta con respecto a su reserva .
+
+2 . ¿Qué información necesita el sistema para realizar una reserva?
+A. Nombre del cliente .
+B. Numero de celular , opcional otro numero . 
+C. Correo .
+D. Para cuantas personas es la reserva .
+E. P fecha de la reserva .
+F. Hora de la reserva .
+L. lugar en el restaurante. 
+M. Que tipo de reserva desea :
+   - Familiar 
+   - Romantica
+   - De Trabajo
+   -u otras especique cual ?.
+N. Que tipo de comida desea ?.
+   - Normal.
+   - Vegana 
+   - Dietetica.
+
+3 .¿Qué resultado debería proporcionar después de completar el proceso?
+- Al completar la reserva deberia mostar al cliente el tipo de reserva con sus  especificaciones ,la fecha y hora .
+
+4 - En caso de tener disponibilidad :
+- el programa debera realizar la verificacion de las mesas disponibles para ese dia. 
+- se le solicitara al cliente sus datos especificados en el paso 2 .
+
+5 - En caso de no tener disponibilidad :
+- programa le informara al cliente que no tiene disponibilidad para esas fechas y proporcionara otras opciones disponibles.
+- si por el contrario para esa fecha y hora falta de disponibilidad es por la mesa o ubicacion que escogieron el sistema debe verificar si tienen disponibilidad para ese dia en otras mesas o ubicacion y se las proporcionara al cliente para verificar si tiene interes en una de las opciones .
+-Si la respuesta es negativa por parte del cliente darle las gracias ´por elegirnos y que se espera su pronto regreso .
+
+6 confirmacion por ambas partes .
+ - Despues que el sistema del restaurante de una respuesta favorable al cliente enviar una confirmacion en la cual el cliene pueda decir si o no va tomar la reserva y dar un respuesta segun se el caso .
+
+ Con estos pasos, se espera que el restaurante tenga un sistema eficiente para gestionar las reservas, proporcionando a los clientes una experiencia fluida y satisfactoria.
+
+
+
+ 
